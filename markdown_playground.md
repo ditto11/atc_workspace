@@ -35,10 +35,10 @@ Those basic races are as follows:
 
 In addition to determining your character's appearance, their race will have mechanical implications, which I will summarize below:
 |Race|Ability Scores|Traits|
-|------------- |:-------------:| -----:|
-|Dragonborn|+2 Strength, +1 Charisma|A breath attack and damage resistance depending on their coloration|
-|Dwarves|+2 Constitution|Darkvision, less vulnerable to poison, and a few proficiencies|
-|Elves|+2 Dexterity|Darkvision, perception proficiency, harder to charm by magic, doesn't sleep|
+|------------- |-------------|-----|
+|Dragonborn|+2 Str, +1 Cha|A breath attack and damage resistance depending on their coloration|
+|Dwarves|+2 Con|Darkvision, less vulnerable to poison, and a few proficiencies|
+|Elves|+2 Dex|Darkvision, perception proficiency, harder to charm by magic, doesn't sleep|
 |Gnomes|||
 |Half-Elves|||
 |Halflings|||
